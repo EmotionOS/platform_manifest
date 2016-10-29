@@ -10,10 +10,7 @@
            fetch=".." />
 
 
-  <remote  name="
-                 
-                 
-                 oid"
+  <remote  name="emotroid"
            fetch="https://github.com/"
            revision="refs/heads/nougat" />
 
