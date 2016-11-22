@@ -41,10 +41,10 @@
   <project path="build" name="Emotroid-Rom/build" remote="emotroid" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="frameworks/base" name="Emotroid-Rom/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotroid" />
+  <project path="frameworks/base" name="Emotroid-Rom/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotroid_rom" />
   <project path="frameworks/av" name="Emotroid-Rom/frameworks_av" groups="pdk" remote="emotroid" />
   <project path="frameworks/opt/telephony" remote="emotroid" name="Emotroid-Rom/frameworks_opt_telephony" groups="pdk" />
-  <project path="packages/apps/Settings" name="Emotroid-Rom/packages_apps_Settings" groups="pdk-fs" remote="emotroid" />
+  <project path="packages/apps/Settings" name="Emotroid-Rom/packages_apps_Settings" groups="pdk-fs" remote="emotroid_rom" />
   <project path="packages/apps/ROMControl" name="Emotroid-Rom/packages_apps_ROMControl" remote="emotroid" />
   <project path="packages/services/Telephony" name="Emotroid-Rom/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="emotroid" />
   <project path="system/core" remote="emotroid" name="Emotroid-Rom/system_core" groups="pdk" />
