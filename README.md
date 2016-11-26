@@ -22,6 +22,12 @@ Sync the repository:
     $ repo sync -c -f -j4 --force-sync --no-clone-bundle
 
 ***
+###Set CCache
+
+$  export USE_CCACHE=1
+ 
+$  prebuilts/misc/linux-x86/ccache/ccache -M 100G
+ 
 
 Building
 --------
