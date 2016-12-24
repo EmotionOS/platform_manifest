@@ -19,7 +19,7 @@
   <project path="hardware/qcom/keymaster" name="Emotroid-Rom/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster" remote="emotroid" />
   <project path="hardware/broadcom/libbt" name="Emotroid-Rom/android_hardware_broadcom_libbt" groups="pdk" remote="emotroid" />
   <project path="system/sepolicy" name="Emotroid-Rom/android_system_sepolicy" groups="pdk" remote="emotroid" />
-  <project path="system/core" name="Emotroid-Rom/android_system_core" groups="pdk" remote="emotroid" />
+  <project path="system/core" name="Emotroid-Rom/system_core" groups="pdk" remote="emotroid" />
   <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="teamsubstratum" revision="n" />
   <project path="packages/apps/Contacts" remote="emotroid" name="Emotroid-Rom/android_packages_apps_Contacts" groups="pdk-fs" />
   <project path="packages/apps/ContactsCommon" remote="emotroid" name="Emotroid-Rom/android_packages_apps_ContactsCommon" groups="pdk-fs" />
