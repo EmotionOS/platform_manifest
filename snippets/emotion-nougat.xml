@@ -2,28 +2,28 @@
 <manifest>
 
   <!-- Emotion custom -->
-  <project path="vendor/emotion" name="Emotroid-Rom/vendor_emotion" remote="emotroid" >
+  <project path="vendor/emotion" name="EmotionOS/vendor_emotion" remote="emotion" >
     <copyfile src="tools/build-emotion.sh" dest="build-emotion.sh"/>
   </project>
-  <project path="changelogs" remote="emotroid" name="Emotroid-Rom/Changelogs" />
-  <project path="packages/apps/EmotionOTA" name="Emotroid-Rom/packages_apps_EmotionOTA" remote="emotroid" />
-  <project path="OTA" name="Emotroid-Rom/OTA" remote="emotroid" />
-  <project path="external/sqlite" name="Emotroid-Rom/android_external_sqlite" groups="pdk" remote="emotroid" />
-  <project path="frameworks/base" name="Emotroid-Rom/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotroid" />
-  <project path="vendor/cmsdk" name="Emotroid-Rom/cm_platform_sdk" remote="emotroid" />
-  <project path="packages/inputmethods/LatinIME" name="Emotroid-Rom/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="emotroid" />
-  <project path="packages/apps/CMParts" remote="emotroid" name="Emotroid-Rom/packages_apps_CMParts" />
-  <project path="packages/apps/OmniSwitch" name="Emotroid-Rom/android_packages_apps_OmniSwitch" remote="emotroid" />
-  <project path="packages/apps/EmotionControl" name="Emotroid-Rom/packages_apps_EmotionControl" remote="emotroid" />
-  <project path="packages/apps/Settings" name="Emotroid-Rom/packages_apps_Settings" groups="pdk-fs" remote="emotroid" />
-  <project path="hardware/qcom/keymaster" name="Emotroid-Rom/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster" remote="emotroid" />
-  <project path="hardware/broadcom/libbt" name="Emotroid-Rom/android_hardware_broadcom_libbt" groups="pdk" remote="emotroid" />
-  <project path="system/sepolicy" name="Emotroid-Rom/android_system_sepolicy" groups="pdk" remote="emotroid" />
-  <project path="system/core" name="Emotroid-Rom/system_core" groups="pdk" remote="emotroid" />
+  <project path="changelogs" remote="emotion" name="EmotionOS/Changelogs" />
+  <project path="packages/apps/EmotionOTA" name="EmotionOS/packages_apps_EmotionOTA" remote="emotion" />
+  <project path="OTA" name="EmotionOS/OTA" remote="emotion" />
+  <project path="external/sqlite" name="EmotionOS/android_external_sqlite" groups="pdk" remote="emotion" />
+  <project path="frameworks/base" name="EmotionOS/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotion" />
+  <project path="vendor/cmsdk" name="EmotionOS/cm_platform_sdk" remote="emotion" />
+  <project path="packages/inputmethods/LatinIME" name="EmotionOS/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="emotion" />
+  <project path="packages/apps/CMParts" remote="emotion" name="EmotionOS/packages_apps_CMParts" />
+  <project path="packages/apps/OmniSwitch" name="EmotionOS/android_packages_apps_OmniSwitch" remote="emotion" />
+  <project path="packages/apps/EmotionControl" name="EmotionOS/packages_apps_EmotionControl" remote="emotion" />
+  <project path="packages/apps/Settings" name="EmotionOS/packages_apps_Settings" groups="pdk-fs" remote="emotion" />
+  <project path="hardware/qcom/keymaster" name="EmotionOS/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster" remote="emotion" />
+  <project path="hardware/broadcom/libbt" name="EmotionOS/android_hardware_broadcom_libbt" groups="pdk" remote="emotion" />
+  <project path="system/sepolicy" name="EmotionOS/android_system_sepolicy" groups="pdk" remote="emotion" />
+  <project path="system/core" name="EmotionOS/system_core" groups="pdk" remote="emotion" />
   <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="teamsubstratum" revision="n" />
-  <project path="packages/apps/Contacts" remote="emotroid" name="Emotroid-Rom/android_packages_apps_Contacts" groups="pdk-fs" />
-  <project path="packages/apps/ContactsCommon" remote="emotroid" name="Emotroid-Rom/android_packages_apps_ContactsCommon" groups="pdk-fs" />
-  <project path="packages/apps/PhoneCommon" remote="emotroid" name="Emotroid-Rom/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/Contacts" remote="emotion" name="EmotionOS/android_packages_apps_Contacts" groups="pdk-fs" />
+  <project path="packages/apps/ContactsCommon" remote="emotion" name="EmotionOS/android_packages_apps_ContactsCommon" groups="pdk-fs" />
+  <project path="packages/apps/PhoneCommon" remote="emotion" name="EmotionOS/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <!-- END Emotion -->
 
   <!-- CyanogenMod additions -->

@@ -9,7 +9,7 @@
   <remote  name="github"
            fetch=".." />
 
-  <remote  name="emotroid"
+  <remote  name="emotion"
            fetch="https://github.com/"
            revision="refs/heads/nougat" />
 
@@ -26,13 +26,13 @@
            fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/nougat"
-           remote="emotroid"
+           remote="emotion"
            sync-c="true"
            sync-j="4" />
 
   <!-- Emotion Projects -->
-  <project path="platform_manifest" name="Emotroid-Rom/platform_manifest" remote="emotroid" />
-  <project path="build" name="Emotroid-Rom/build" groups="pdk" remote="emotroid" >
+  <project path="platform_manifest" name="EmotionOS/platform_manifest" remote="emotion" />
+  <project path="build" name="EmotionOS/build" groups="pdk" remote="emotion" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <!-- end Emotion projects -->

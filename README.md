@@ -1,7 +1,7 @@
-[Emotion Rom](http://emotroid.com/)
+[EmotionOS](https://goo.gl/1ByphU)
 ====================================
 
-![Emotroid Team](http://i.imgur.com/4XAXvMq.png)
+![EmotionOS](http://i.imgur.com/4XAXvMq.png)
 
 Download the Source
 ===================
@@ -13,7 +13,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/Emotroid-Rom/platform_manifest.git -b nougat
+    $ repo init -u https://github.com/EmotionOS/platform_manifest.git -b nougat
 
     $ git clone local_manifest into ./repo
 
