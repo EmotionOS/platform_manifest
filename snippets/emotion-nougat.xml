@@ -8,11 +8,13 @@
   <project path="changelogs" remote="emotion" name="EmotionOS/Changelogs" />
   <project path="packages/apps/EmotionOTA" name="EmotionOS/packages_apps_EmotionOTA" remote="emotion" />
   <project path="OTA" name="EmotionOS/OTA" remote="emotion" />
+  <project path="external/DUtils" remote="emotion" name="EmotionOS/external_DUtils" />
   <project path="external/sqlite" name="EmotionOS/android_external_sqlite" groups="pdk" remote="emotion" />
   <project path="frameworks/base" name="EmotionOS/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotion" />
   <project path="vendor/cmsdk" name="EmotionOS/cm_platform_sdk" remote="emotion" />
   <project path="packages/inputmethods/LatinIME" name="EmotionOS/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="emotion" />
   <project path="packages/apps/CMParts" remote="emotion" name="EmotionOS/packages_apps_CMParts" />
+  <project path="packages/apps/DUI" remote="emotion" name="EmotionOS/packages_apps_DUI"  />
   <project path="packages/apps/OmniSwitch" name="EmotionOS/android_packages_apps_OmniSwitch" remote="emotion" />
   <project path="packages/apps/EmotionControl" name="EmotionOS/packages_apps_EmotionControl" remote="emotion" />
   <project path="packages/apps/Settings" name="EmotionOS/packages_apps_Settings" groups="pdk-fs" remote="emotion" />
