@@ -7,7 +7,6 @@
   </project>
   <project path="changelogs" remote="emotion" name="EmotionOS/Changelogs" />
   <project path="packages/apps/EmotionOTA" name="EmotionOS/packages_apps_EmotionOTA" remote="emotion" />
-  <project path="OTA" name="EmotionOS/OTA" remote="emotion" />
   <project path="external/DUtils" remote="emotion" name="EmotionOS/external_DUtils" />
   <project path="external/sqlite" name="EmotionOS/android_external_sqlite" groups="pdk" remote="emotion" />
   <project path="frameworks/base" name="EmotionOS/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotion" />
