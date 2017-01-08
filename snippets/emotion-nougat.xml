@@ -25,6 +25,7 @@
   <project path="packages/apps/Contacts" remote="emotion" name="EmotionOS/android_packages_apps_Contacts" groups="pdk-fs" />
   <project path="packages/apps/ContactsCommon" remote="emotion" name="EmotionOS/android_packages_apps_ContactsCommon" groups="pdk-fs" />
   <project path="packages/apps/PhoneCommon" remote="emotion" name="EmotionOS/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/SnapdragonGallery" remote="emotion" name="EmotionOS/packages_apps_SnapdragonGallery" groups="pdk-fs" />
   <!-- END Emotion -->
 
   <!-- LineageOS additions -->
