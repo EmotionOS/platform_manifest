@@ -13,6 +13,7 @@
   <project path="vendor/cmsdk" name="EmotionOS/cm_platform_sdk" remote="emotion" />
   <project path="packages/inputmethods/LatinIME" name="EmotionOS/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="emotion" />
   <project path="packages/apps/CMParts" remote="emotion" name="EmotionOS/packages_apps_CMParts" />
+  <project path="packages/apps/Dialer" remote="emotion" name="EmotionOS/android_packages_apps_Dialer" groups="pdk-fs" />
   <project path="packages/apps/DUI" remote="emotion" name="EmotionOS/packages_apps_DUI"  />
   <project path="packages/apps/OmniSwitch" name="EmotionOS/android_packages_apps_OmniSwitch" remote="emotion" />
   <project path="packages/apps/EmotionControl" name="EmotionOS/packages_apps_EmotionControl" remote="emotion" />
