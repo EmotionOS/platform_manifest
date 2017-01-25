@@ -10,6 +10,7 @@
   <project path="external/DUtils" remote="emotion" name="EmotionOS/external_DUtils" />
   <project path="external/sqlite" name="EmotionOS/android_external_sqlite" groups="pdk" remote="emotion" />
   <project path="frameworks/base" name="EmotionOS/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotion" />
+  <project path="frameworks/native" name="EmotionOS/android_frameworks_native" groups="pdk" remote="emotion" />
   <project path="vendor/cmsdk" name="EmotionOS/cm_platform_sdk" remote="emotion" />
   <project path="packages/inputmethods/LatinIME" name="EmotionOS/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="emotion" />
   <project path="packages/apps/CMParts" remote="emotion" name="EmotionOS/packages_apps_CMParts" />
