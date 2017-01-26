@@ -29,6 +29,7 @@
   <project path="packages/apps/ContactsCommon" remote="emotion" name="EmotionOS/android_packages_apps_ContactsCommon" groups="pdk-fs" />
   <project path="packages/apps/PhoneCommon" remote="emotion" name="EmotionOS/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/SnapdragonGallery" remote="emotion" name="EmotionOS/packages_apps_SnapdragonGallery" groups="pdk-fs" />
+  <project name="omnirom/android_packages_apps_OmniStyle" path="packages/apps/OmniStyle" remote="omni" revision="android-7.1" />
   <!-- END Emotion -->
 
   <!-- LineageOS additions -->
