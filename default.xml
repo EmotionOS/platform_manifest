@@ -22,6 +22,10 @@
            review="review.lineageos.org"
            revision="refs/heads/cm-14.1" />
 
+  <remote  name="caf"
+           fetch="git://codeaurora.org/quic/la"
+           review="codeaurora.org"/>
+
   <remote name="teamsubstratum"
            fetch="https://github.com/"
            review="review.projektsubstratum.com" />

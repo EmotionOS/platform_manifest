@@ -20,6 +20,7 @@
   <project path="packages/apps/OmniSwitch" name="EmotionOS/android_packages_apps_OmniSwitch" remote="emotion" />
   <project path="packages/apps/EmotionControl" name="EmotionOS/packages_apps_EmotionControl" remote="emotion" />
   <project path="packages/apps/Settings" name="EmotionOS/packages_apps_Settings" groups="pdk-fs" remote="emotion" />
+  <project name="platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="caf" revision="LA.BF.2.1.2_rb1.16"/>
   <project path="hardware/qcom/keymaster" name="EmotionOS/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster" remote="emotion" />
   <project path="hardware/broadcom/libbt" name="EmotionOS/android_hardware_broadcom_libbt" groups="pdk" remote="emotion" />
   <project path="system/sepolicy" name="EmotionOS/android_system_sepolicy" groups="pdk" remote="emotion" />
