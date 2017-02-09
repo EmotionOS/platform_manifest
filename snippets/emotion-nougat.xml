@@ -11,6 +11,7 @@
   <project path="external/sqlite" name="EmotionOS/android_external_sqlite" groups="pdk" remote="emotion" />
   <project path="frameworks/base" name="EmotionOS/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotion" />
   <project path="frameworks/native" name="EmotionOS/android_frameworks_native" groups="pdk" remote="emotion" />
+  <project path="frameworks/opt/telephony" remote="emotion" name="EmotionOS/android_frameworks_opt_telephony" groups="pdk" />
   <project path="vendor/cmsdk" name="EmotionOS/cm_platform_sdk" remote="emotion" />
   <project path="packages/inputmethods/LatinIME" name="EmotionOS/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="emotion" />
   <project path="packages/apps/CMParts" remote="emotion" name="EmotionOS/packages_apps_CMParts" />
@@ -28,10 +29,12 @@
   <project path="packages/apps/masquerade" name="TeamSubstratum/masquerade" remote="teamsubstratum" revision="n" />
   <project path="packages/apps/Contacts" remote="emotion" name="EmotionOS/android_packages_apps_Contacts" groups="pdk-fs" />
   <project path="packages/apps/ContactsCommon" remote="emotion" name="EmotionOS/android_packages_apps_ContactsCommon" groups="pdk-fs" />
+  <project path="packages/apps/Messaging" remote="emotion" name="EmotionOS/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/PhoneCommon" remote="emotion" name="EmotionOS/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/SnapdragonGallery" remote="emotion" name="EmotionOS/packages_apps_SnapdragonGallery" groups="pdk-fs" />
   <project name="omnirom/android_packages_apps_OmniStyle" path="packages/apps/OmniStyle" remote="omni" revision="android-7.1" />
   <project path="packages/services/Telephony" remote="emotion" name="EmotionOS/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/services/Telecomm" remote="emotion" name="EmotionOS/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <!-- END Emotion -->
 
   <!-- LineageOS additions -->
