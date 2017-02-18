@@ -31,6 +31,7 @@
   <project path="packages/apps/ContactsCommon" remote="emotion" name="EmotionOS/android_packages_apps_ContactsCommon" groups="pdk-fs" />
   <project path="packages/apps/Messaging" remote="emotion" name="EmotionOS/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/PhoneCommon" remote="emotion" name="EmotionOS/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/Snap" remote="emotion" name="EmotionOS/android_packages_apps_Snap" />
   <project path="packages/apps/SnapdragonGallery" remote="emotion" name="EmotionOS/packages_apps_SnapdragonGallery" groups="pdk-fs" />
   <project name="omnirom/android_packages_apps_OmniStyle" path="packages/apps/OmniStyle" remote="omni" revision="android-7.1" />
   <project path="packages/services/Telephony" remote="emotion" name="EmotionOS/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
@@ -87,7 +88,6 @@
   <project path="packages/apps/Profiles" remote="cm" name="LineageOS/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" remote="cm" name="LineageOS/android_packages_apps_Recorder" />
   <project path="packages/apps/SetupWizard" remote="cm" name="LineageOS/android_packages_apps_SetupWizard" />
-  <project path="packages/apps/Snap" remote="cm" name="LineageOS/android_packages_apps_Snap" />
   <project path="packages/apps/ThemeChooser" remote="cm" name="LineageOS/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Trebuchet" remote="cm" name="LineageOS/android_packages_apps_Trebuchet" />
   <project path="packages/providers/DataUsageProvider" remote="cm" name="LineageOS/android_packages_providers_DataUsageProvider" />
