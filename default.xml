@@ -26,7 +26,7 @@
            fetch="git://codeaurora.org/quic/la"
            review="codeaurora.org"/>
 
-  <remote name="teamsubstratum"
+  <remote name="substratum"
            fetch="https://github.com/"
            review="review.projektsubstratum.com" />
 
