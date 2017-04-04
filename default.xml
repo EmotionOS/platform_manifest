@@ -403,6 +403,7 @@
   <project path="packages/apps/Email" remote="cm" name="LineageOS/android_packages_apps_Email" groups="pdk-fs" />
   <project path="packages/apps/EmergencyInfo" remote="cm" name="LineageOS/android_packages_apps_EmergencyInfo" />
   <project path="packages/apps/ExactCalculator" remote="cm" name="LineageOS/android_packages_apps_ExactCalculator" groups="pdk-fs" />
+  <project path="packages/apps/FlipFlap" remote="cm" name="LineageOS/android_packages_apps_FlipFlap" />
   <project path="packages/apps/HTMLViewer" remote="cm" name="LineageOS/android_packages_apps_HTMLViewer" groups="pdk-fs" />
   <project path="packages/apps/KeyChain" remote="cm" name="LineageOS/android_packages_apps_KeyChain" groups="pdk-fs" />
   <project path="packages/apps/ManagedProvisioning" remote="cm" name="LineageOS/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
