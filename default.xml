@@ -26,10 +26,6 @@
            fetch="git://codeaurora.org/quic/la"
            review="codeaurora.org"/>
 
-  <remote name="substratum"
-           fetch="https://github.com/"
-           review="review.projektsubstratum.com" />
-
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
