@@ -5,7 +5,6 @@
   <project path="changelogs" remote="emotion" name="EmotionOS/Changelogs" />
   <!-- External repos -->
   <project path="external/DUtils" remote="emotion" name="EmotionOS/external_DUtils" />
-  <project path="external/sqlite" name="EmotionOS/android_external_sqlite" groups="pdk" remote="emotion" />
   <!-- Frameworks repos -->
   <project path="frameworks/base" name="EmotionOS/frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="emotion" />
   <project path="frameworks/native" name="EmotionOS/android_frameworks_native" groups="pdk" remote="emotion" />
