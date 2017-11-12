@@ -20,7 +20,6 @@
   <project path="packages/apps/DUI" remote="emotion" name="EmotionOS/packages_apps_DUI"  />
   <project path="packages/apps/EmotionControl" name="EmotionOS/packages_apps_EmotionControl" remote="emotion" />
   <project path="packages/apps/EmotionOTA" name="EmotionOS/packages_apps_EmotionOTA" remote="emotion" />
-  <project path="packages/apps/Gallery2" remote="emotion" name="EmotionOS/android_packages_apps_Gallery2" groups="pdk-fs" />
   <project path="packages/apps/Messaging" remote="emotion" name="EmotionOS/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
   <project path="packages/apps/OmniStyle" remote="omni" name="omnirom/android_packages_apps_OmniStyle" revision="android-7.1" />
