@@ -28,7 +28,6 @@
   <project path="packages/apps/Settings" name="EmotionOS/packages_apps_Settings" groups="pdk-fs" remote="emotion" />
   <project path="packages/apps/Snap" remote="emotion" name="EmotionOS/android_packages_apps_Snap" />
   <project name="platform/packages/apps/SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="caf" revision="LA.BF.2.1.2_rb1.16"/>
-  <project path="packages/apps/SnapdragonGallery" remote="emotion" name="EmotionOS/packages_apps_SnapdragonGallery" groups="pdk-fs" />
   <project path="packages/inputmethods/LatinIME" name="EmotionOS/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="emotion" />
   <project path="packages/services/Telecomm" remote="emotion" name="EmotionOS/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telephony" remote="emotion" name="EmotionOS/packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
