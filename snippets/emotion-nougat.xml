@@ -21,7 +21,7 @@
   <project path="packages/apps/EmotionControl" name="EmotionOS/packages_apps_EmotionControl" remote="emotion" />
   <project path="packages/apps/EmotionOTA" name="EmotionOS/packages_apps_EmotionOTA" remote="emotion" />
   <project path="packages/apps/Messaging" remote="emotion" name="EmotionOS/android_packages_apps_Messaging" groups="pdk-fs" />
-  <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
+  <project path="packages/apps/ThemeInterfacer" name="EmotionOS/interfacer" remote="emotion" revision="nougat" />
   <project path="packages/apps/OmniStyle" remote="omni" name="omnirom/android_packages_apps_OmniStyle" revision="android-7.1" />
   <project path="packages/apps/OmniSwitch" name="EmotionOS/android_packages_apps_OmniSwitch" remote="emotion" />
   <project path="packages/apps/PhoneCommon" remote="emotion" name="EmotionOS/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
